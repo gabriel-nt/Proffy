@@ -42,7 +42,7 @@ Proffy é uma plataforma que conecta estudantes à professores. Projeto desenvol
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
 
