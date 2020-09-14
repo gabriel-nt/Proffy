@@ -40,7 +40,7 @@
 Proffy é uma plataforma que conecta estudantes à professores. Projeto desenvolvido durante a semana do Next Level Week 2ª Edição. 
 
 ### ✅ Demonstração
-<img src="https://github.com/Gabriel-Teixeira/Be-the-Hero/blob/master/frontend/src/assets/dashboard.PNG" />
+<img src="https://github.com/Gabriel-Teixeira/Proffy/blob/master/web/src/assets/images/dashboard.PNG" />
 
 ### ⚙ Pré-requisitos
 
