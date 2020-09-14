@@ -35,7 +35,7 @@
 - [x] Criar conexões.
 - [x] Entrar em contato com o professor
 
-## 💻 Projeto
+### 💻 Projeto
 
 Proffy é uma plataforma que conecta estudantes à professores. Projeto desenvolvido durante a semana do Next Level Week 2ª Edição. 
 
