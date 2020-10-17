@@ -33,6 +33,7 @@
 - [x] Listar aulas
 - [x] Filtrar aulas.
 - [x] Criar conexões.
+- [x] Alterar tema da aplicação
 - [x] Entrar em contato com o professor
 
 ### 💻 Projeto
@@ -53,7 +54,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Gabriel-Teixeira/Proffy
+$ git clone https://github.com/gabriel-nt/Proffy
 
 # Navegue para a pasta
 $ cd backend
